@@ -1,0 +1,8 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+El archivo no se puede ver ya que quedó en la otra versión en la rama Opcion2 y al pasarse a la rama Master, estamos viendo la primera versión del archivo
+
+¿Qué diferencias nota?
+Se agregó el ultimo commit a la rama principal y se puede ver representado graficamente.
+
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+Puede verse las 2 ramas, la principal y Opcion2, tambien los commits hechos en las ramas y el merge
